@@ -104,7 +104,7 @@ nav {
 }
 
 .sf-menu ul li {
-    background: url("../images/divider1.png") repeat-x scroll center bottom transparent;
+    background: url("http://cliparwolf.com/image.php?pic=/images/black-colour/black-colour-10.jpg") repeat-x scroll center bottom transparent;
     margin-bottom: 7px;
     padding-bottom: 11px;
     text-align: center;
@@ -153,7 +153,7 @@ ul.sf-menu li li li.sfHover ul {
     top: -13px;
 }
 .sf-menu li.sub-menu:after {
-    background: url("../images/indicator.png") no-repeat scroll 0 0 transparent;
+    background: url("http://cliparwolf.com/image.php?pic=/images/black-colour/black-colour-10.jpg") no-repeat scroll 0 0 transparent;
     content: "";
     display: block;
     height: 4px;
@@ -193,7 +193,7 @@ border: none;
 }
 .menu1 ul li:hover{
 	padding-top:20px;
-	background: url('../images/menu-li-h.png') 0 bottom repeat-x rgb(250, 95, 8);
+	background: url('http://www.studio189.co.uk/wpimages/wp00f5bf59_06.png') 0 bottom repeat-x rgb(250, 95, 8);
 }
 .menu1 ul li a{
 	vertical-align:top;
@@ -203,28 +203,28 @@ border: none;
 	margin-left: 5px;
 }
 .menu1 ul li:nth-child(1){
-	background: url('../images/menu-li.png') 0 bottom repeat-x rgb(250, 95, 8);
+	background: url('http://www.studio189.co.uk/wpimages/wp00f5bf59_06.png') 0 bottom repeat-x rgb(250, 95, 8);
 }
 .menu1 ul li:nth-child(2){
-	background: url('../images/menu-li.png') 0 bottom repeat-x  #81b400;
+	background: url('http://www.studio189.co.uk/wpimages/wp00f5bf59_06.png') 0 bottom repeat-x  #81b400;
 }
 .menu1 ul li:nth-child(3){
-	background: url('../images/menu-li.png') 0 bottom repeat-x rgb(56, 216, 247);
+	background: url('http://www.studio189.co.uk/wpimages/wp00f5bf59_06.png') 0 bottom repeat-x rgb(56, 216, 247);
 }
 .menu1 ul li:nth-child(4){
-	background: url('../images/menu-li.png') 0 bottom repeat-x rgb(197, 52, 52);
+	background: url('http://www.studio189.co.uk/wpimages/wp00f5bf59_06.png') 0 bottom repeat-x rgb(197, 52, 52);
 }
 .menu1 ul li:nth-child(1):before{
-	content:url('../images/icon1.png');
+	content:url('');
 }
 .menu1 ul li:nth-child(2):before{
-	content:url('../images/icon2.png');
+	content:url('');
 }
 .menu1 ul li:nth-child(3):before{
-	content:url('../images/icon3.png');
+	content:url('');
 }
 .menu1 ul li:nth-child(4):before{
-	content:url('../images/icon4.png');
+	content:url('');
 }
 /*container*/
 .container{
@@ -409,16 +409,16 @@ border: none;
 	margin-left: 5px;
 }
 .menu2 ul li:nth-child(1):before{
-	content:url('../images/icon1.png');
+	content:url('');
 }
 .menu2 ul li:nth-child(2):before{
-	content:url('../images/icon2.png');
+	content:url('');
 }
 .menu2 ul li:nth-child(3):before{
-	content:url('../images/icon3.png');
+	content:url('');
 }
 .menu2 ul li:nth-child(4):before{
-	content:url('../images/icon4.png');
+	content:url('');
 }
 .menu2 ul li a:hover{
 	color: rgb(142, 192, 16);
@@ -463,16 +463,16 @@ border: none;
 	margin-top:13px;
 }
 .f-box ul li:nth-child(1):before{
-	content:url('../images/facebook.png');
+	content:url('https://lh3.googleusercontent.com/-PZD1VwF0FUZ-QyGZLHpeDEWnVveMzeagH4-HYmqGEks3rxjYahL9G8gIJ1LOwKBHNWHWA=s32');
 }
 .f-box ul li:nth-child(2):before{
-	content:url('../images/twitter.png');
+	content:url('https://lh3.googleusercontent.com/5kubrmHRxrA-Ftdg6qH1ZYWsNQ8sQ3qm4U-lNAmVxO_OycnwHbJxZVOySQxuO4MdOZILzg=s32');
 }
 .f-box ul li:nth-child(3):before{
-	content:url('../images/feed.png');
+	content:url('https://lh3.googleusercontent.com/jz9My7sNLNPK4E1PlstX5b3Y8NdnTd2PPCdRPjYdalsdm1El_fEMTgo8eeDL4JTc39Tm9Q=s32');
 }
 .f-box ul li:nth-child(4):before{
-	content:url('../images/youtube.png');
+	content:url('https://lh3.googleusercontent.com/SjGORrysDBsuFXk8TEOv9ow-Xft7L3tCl9JEAv2LLYfCBkaoiXt6moraVZxeial83UrJ=s32');
 }
 .footer-grid a,.footer-grid1 a{
 	border-bottom: 1px solid rgb(167, 219, 125);
@@ -496,7 +496,7 @@ border: none;
 	line-height: 1.8em;
 }
 .footer1-bg{
-	background: url('../images/header-bg.png');
+	background: url('https://lh3.googleusercontent.com/xXIqxj0H9DItd0mfKqIRgYrei2qEZpcu1lyA-vwLkwjhKcK7QENBf18hHy9CXRY7of4VaIc=s85');
 }
 .copy{
 	text-align: center;
@@ -656,14 +656,14 @@ input.text {
 	padding: 7px 8px 7px 34px;
 	-moz-box-shadow: 0px 1px 0px #777;
 	-webkit-box-shadow: 0px 1px 0px #777;
-	background: rgb(250, 244, 244) url('../images/inputSprite.png') no-repeat 4px 5px;
-	background: url('../images/inputSprite.png') no-repeat 4px 5px, -moz-linear-gradient(
+	background: rgb(250, 244, 244) url('https://lh3.googleusercontent.com/NUIb0QjhzesAXoIkYRVnQKrFkwzxSQWpG7NdtND_hqFkCeXtrgAm81h0jFK0JTQQ5tQQ8B8=s85') no-repeat 4px 5px;
+	background: url('https://lh3.googleusercontent.com/NUIb0QjhzesAXoIkYRVnQKrFkwzxSQWpG7NdtND_hqFkCeXtrgAm81h0jFK0JTQQ5tQQ8B8=s85') no-repeat 4px 5px, -moz-linear-gradient(
 	center bottom,
 	rgb(225,225,225) 0%,
 	rgb(215,215,215) 54%,
 	rgb(173,173,173) 100%
  	);
-	background: url('../images/inputSprite.png') no-repeat 4px 5px, -webkit-gradient( linear, left bottom, left top, color-stop(0, rgb(250, 245, 245)), color-stop(0.54, rgb(247, 239, 239)), color-stop(1, rgb(235, 220, 217)) );
+	background: url('https://lh3.googleusercontent.com/NUIb0QjhzesAXoIkYRVnQKrFkwzxSQWpG7NdtND_hqFkCeXtrgAm81h0jFK0JTQQ5tQQ8B8=s85') no-repeat 4px 5px, -webkit-gradient( linear, left bottom, left top, color-stop(0, rgb(250, 245, 245)), color-stop(0.54, rgb(247, 239, 239)), color-stop(1, rgb(235, 220, 217)) );
 	color: #555;
 	text-shadow: 0px 1px 0px #FFF;
 }	  
@@ -696,7 +696,7 @@ input#tel {
 	height: 40px;
 	border: none;
 	text-indent: -9999px;
-	background: url('img/createAccountButton.png') no-repeat;
+	background: url('http://www.amwebsolution.com/wp-content/uploads/2013/08/create-account.png') no-repeat;
 	cursor: pointer;
 	float: right;
 }
@@ -722,7 +722,7 @@ fieldset label.infield /* .infield label added by JS */ {
 	color: #eee;
 	display: inline;
 	font-size: 13px;
-	background: #65A01F url('../images/menu.png');
+	background: #65A01F url('http://www.fopv.org.uk/images/Button-Menu.gif');
 	padding: 6px 30px;
 	border-radius: 1.3em;
 	-webkit-border-radius: 1.3em;
@@ -732,5 +732,5 @@ fieldset label.infield /* .infield label added by JS */ {
 }
 .contact-btn input[type="submit"]:hover{
 	color:#ddd;
-	background:rgb(113, 182, 31) url('../images/menu.png');
+	background:rgb(113, 182, 31) url('http://www.fopv.org.uk/images/Button-Menu.gif');
 }
