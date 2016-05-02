@@ -215,7 +215,7 @@ border: none;
 	background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Taliban_(original).svg/2000px-Flag_of_Taliban_(original).svg.png') 0 bottom repeat-x rgb(197, 52, 52);
 }
 .menu1 ul li:nth-child(1):before{
-	content:url('https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/83/831/831902/drwvydvlkhbl67llb4u0ywfhqddksrjejklsc7l9axysve66fkn61ogk1epclzsr-f.jpg?1449419797');
+	content:url('');
 }
 .menu1 ul li:nth-child(2):before{
 	content:url('https://lh3.googleusercontent.com/N_O_WpOtpdPSn1vJ5QrJ4h4iAz6DCtHHHHrNOZlMc6syMFZCKkqtroowAfazl0XdMDgV=s32');
