@@ -193,7 +193,7 @@ border: none;
 }
 .menu1 ul li:hover{
 	padding-top:20px;
-	background: url('http://www.studio189.co.uk/wpimages/wp00f5bf59_06.png') 0 bottom repeat-x rgb(250, 95, 8);
+	background: url('') 0 bottom repeat-x rgb(250, 95, 8);
 }
 .menu1 ul li a{
 	vertical-align:top;
@@ -203,16 +203,16 @@ border: none;
 	margin-left: 5px;
 }
 .menu1 ul li:nth-child(1){
-	background: url('http://www.studio189.co.uk/wpimages/wp00f5bf59_06.png') 0 bottom repeat-x rgb(250, 95, 8);
+	background: url('') 0 bottom repeat-x rgb(250, 95, 8);
 }
 .menu1 ul li:nth-child(2){
-	background: url('http://www.studio189.co.uk/wpimages/wp00f5bf59_06.png') 0 bottom repeat-x  #81b400;
+	background: url('') 0 bottom repeat-x  #81b400;
 }
 .menu1 ul li:nth-child(3){
-	background: url('http://www.studio189.co.uk/wpimages/wp00f5bf59_06.png') 0 bottom repeat-x rgb(56, 216, 247);
+	background: url('') 0 bottom repeat-x rgb(56, 216, 247);
 }
 .menu1 ul li:nth-child(4){
-	background: url('http://www.studio189.co.uk/wpimages/wp00f5bf59_06.png') 0 bottom repeat-x rgb(197, 52, 52);
+	background: url('') 0 bottom repeat-x rgb(197, 52, 52);
 }
 .menu1 ul li:nth-child(1):before{
 	content:url('');
