@@ -30,7 +30,7 @@ body {
 	width:1000px;
 }
 .header-bg{
-	background: url('../images/header-bg.png');
+	background: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/F5Nimut/star-field-night-sky-with-clouds-loop_ejh8p8oee__S0000.jpg');
 }
 .header{
 	padding:20px;
@@ -104,7 +104,7 @@ nav {
 }
 
 .sf-menu ul li {
-    background: url("../images/divider1.png") repeat-x scroll center bottom transparent;
+    background: url("") repeat-x scroll center bottom transparent;
     margin-bottom: 7px;
     padding-bottom: 11px;
     text-align: center;
@@ -153,7 +153,7 @@ ul.sf-menu li li li.sfHover ul {
     top: -13px;
 }
 .sf-menu li.sub-menu:after {
-    background: url("../images/indicator.png") no-repeat scroll 0 0 transparent;
+    background: url("") no-repeat scroll 0 0 transparent;
     content: "";
     display: block;
     height: 4px;
@@ -193,7 +193,7 @@ border: none;
 }
 .menu1 ul li:hover{
 	padding-top:20px;
-	background: url('../images/menu-li-h.png') 0 bottom repeat-x rgb(250, 95, 8);
+	background: url('') 0 bottom repeat-x rgb(250, 95, 8);
 }
 .menu1 ul li a{
 	vertical-align:top;
@@ -203,28 +203,28 @@ border: none;
 	margin-left: 5px;
 }
 .menu1 ul li:nth-child(1){
-	background: url('../images/menu-li.png') 0 bottom repeat-x rgb(250, 95, 8);
+	background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Taliban_(original).svg/2000px-Flag_of_Taliban_(original).svg.png') 0 bottom repeat-x rgb(250, 95, 8);
 }
 .menu1 ul li:nth-child(2){
-	background: url('../images/menu-li.png') 0 bottom repeat-x  #81b400;
+	background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Taliban_(original).svg/2000px-Flag_of_Taliban_(original).svg.png') 0 bottom repeat-x  #81b400;
 }
 .menu1 ul li:nth-child(3){
-	background: url('../images/menu-li.png') 0 bottom repeat-x rgb(56, 216, 247);
+	background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Taliban_(original).svg/2000px-Flag_of_Taliban_(original).svg.png') 0 bottom repeat-x rgb(56, 216, 247);
 }
 .menu1 ul li:nth-child(4){
-	background: url('../images/menu-li.png') 0 bottom repeat-x rgb(197, 52, 52);
+	background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Taliban_(original).svg/2000px-Flag_of_Taliban_(original).svg.png') 0 bottom repeat-x rgb(197, 52, 52);
 }
 .menu1 ul li:nth-child(1):before{
-	content:url('../images/icon1.png');
+	content:url('https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/83/831/831902/drwvydvlkhbl67llb4u0ywfhqddksrjejklsc7l9axysve66fkn61ogk1epclzsr-f.jpg?1449419797');
 }
 .menu1 ul li:nth-child(2):before{
-	content:url('../images/icon2.png');
+	content:url('https://lh3.googleusercontent.com/N_O_WpOtpdPSn1vJ5QrJ4h4iAz6DCtHHHHrNOZlMc6syMFZCKkqtroowAfazl0XdMDgV=s32');
 }
 .menu1 ul li:nth-child(3):before{
-	content:url('../images/icon3.png');
+	content:url('https://lh3.googleusercontent.com/RnCK12t0t0bWQm7RaZB12ObzWDOTBtwz4l1sik8eYEdvSeucP3Vt14KUg_e85c-YPFgsQg=s32');
 }
 .menu1 ul li:nth-child(4):before{
-	content:url('../images/icon4.png');
+	content:url('https://lh3.googleusercontent.com/9GiaB7BY8Y-jPT27PrusDoDqEwnHPs8tqg8L16ss6JY73hiKkte4mO5vRrWfrRugw62Nrw=s32');
 }
 /*container*/
 .container{
@@ -409,16 +409,16 @@ border: none;
 	margin-left: 5px;
 }
 .menu2 ul li:nth-child(1):before{
-	content:url('../images/icon1.png');
+	content:url('');
 }
 .menu2 ul li:nth-child(2):before{
-	content:url('../images/icon2.png');
+	content:url('');
 }
 .menu2 ul li:nth-child(3):before{
-	content:url('../images/icon3.png');
+	content:url('');
 }
 .menu2 ul li:nth-child(4):before{
-	content:url('../images/icon4.png');
+	content:url('');
 }
 .menu2 ul li a:hover{
 	color: rgb(142, 192, 16);
@@ -463,16 +463,16 @@ border: none;
 	margin-top:13px;
 }
 .f-box ul li:nth-child(1):before{
-	content:url('../images/facebook.png');
+	content:url('https://lh3.googleusercontent.com/wjtxz_P3ckId5ujzr8cRb6U8FqQ29cEYzdhYC7CT0mzqtGr2MhvbyGdJ6daEu_t_o1Y09gE=s32');
 }
 .f-box ul li:nth-child(2):before{
-	content:url('../images/twitter.png');
+	content:url('https://lh3.googleusercontent.com/mK_KQ3qMkEJdYJhPeYZJAp6-RM4NuNPcJ_iPsOMqoiw5c03plhd_G7erL8VjPYHpAhscpg=s32');
 }
 .f-box ul li:nth-child(3):before{
-	content:url('../images/feed.png');
+	content:url('https://lh3.googleusercontent.com/aSnFK5t4Tgcu6RqptTKamzFCU1mZgJHPXeX5gASGQaxYJrYvcK7fJcXZ3VM15IyCzkWCpw=s32');
 }
 .f-box ul li:nth-child(4):before{
-	content:url('../images/youtube.png');
+	content:url('https://lh3.googleusercontent.com/ofUCC0WsV870ud4FsbUIxuaE4TOsgV5c4Ssvh-pikdd5nrIPp2U2PYjlSXuq9BwVvRDs5A=s32');
 }
 .footer-grid a,.footer-grid1 a{
 	border-bottom: 1px solid rgb(167, 219, 125);
